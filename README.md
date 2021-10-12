@@ -18,7 +18,7 @@ Lorsque deux joueurs posent en même temps deux cartes de même valeur il y a "b
 
 Le gagnant est celui qui remporte toutes les cartes.
 
-Dans ma version de jeu, il y a un score limite de 20. Le gagnant est donc celui qui remportera 20 cartes de l'autre joueur.
+Dans ma version de jeu, il y a un score limite de 20. Le gagnant est donc le premier joueur qui arrivera à 20 points.
 
 
 ### Bon jeu ! 
